@@ -1,2 +1,3 @@
 # teamcity-remote-run
-Test repo for remote triggers
+
+An empty repo for testing TeamCity "Branch Remote Run" triggers
